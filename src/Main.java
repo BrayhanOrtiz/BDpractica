@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hola perri");
+        System.out.println("aprendiendo comandos");
 
     }
 }
